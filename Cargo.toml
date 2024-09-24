@@ -1,0 +1,2 @@
+[workspace]
+members = ["main", "bit_vector"]
